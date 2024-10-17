@@ -1,5 +1,8 @@
 {
     "cSpell.words": [
         "HARRYS"
-    ]
+    ],
+    "files.associations": {
+        "iostream": "cpp"
+    }
 }
