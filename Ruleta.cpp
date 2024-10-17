@@ -5,5 +5,6 @@ using std::string, std::cout, std::cin;
         int randomNum;
         int selectionNum;
         cout << "Hello, world!" << std::endl;
+        cout << "Hello, everybody" << std::endl;
         return 0;  
     }
