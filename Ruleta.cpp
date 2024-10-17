@@ -7,6 +7,7 @@ using std::string, std::cout, std::cin;
         cout << "Hello, world!" << std::endl;
         //================HARRYS===============
         //================KEVEN===============
+      
+        return 0;  
         //================KEVEN===============
-        return 0;
     }
