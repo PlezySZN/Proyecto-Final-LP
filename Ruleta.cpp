@@ -10,6 +10,5 @@ using std::string, std::cout, std::cin;
         cout << "Hello, world!" << std::endl;
         cout << "Hello, world!" << std::endl;
         cout << "Hello, world!" << std::endl;
-        cout << "Hello, world!" << std::endl;
         return 0;  
     }
