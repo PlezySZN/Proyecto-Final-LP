@@ -6,10 +6,5 @@ using std::string, std::cout, std::cin;
         int selectionNum;
         cout << "Hello, world!" << std::endl;
         cout << "Hello, world!" << std::endl;
-        cout << "Hello, everybody" << std::endl;
-
-        cout << "Hello, world!" << std::endl;
-        cout << "Hello, world!" << std::endl;
-        cout << "Hello, everybody" << std::endl;
         return 0;  
     }
